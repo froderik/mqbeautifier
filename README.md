@@ -6,8 +6,8 @@ This repo contains a [greasemonkey](https://wiki.greasespot.net/Greasemonkey) sc
 
 # Features
 
-- shows the full names queues and topics
-- adds a totalrow to the top of the list
+- shows the full names of queues and topics
+- adds a total row to the top of the list
 - sorts the list on count of pending messages decreasing
 
 # Installation
