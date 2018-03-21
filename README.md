@@ -1,16 +1,16 @@
-= MQ beautifier
+# MQ beautifier
 
-== Description
+# Description
 
 This repo contains a [greasemonkey](https://wiki.greasespot.net/Greasemonkey) script that makes the Active MQ admin interface suck less.
 
-== Features
+# Features
 
 - shows the full names queues and topics
 - adds a totalrow to the top of the list
 - sorts the list on count of pending messages decreasing
 
-== Installation
+# Installation
 
 - install greasemonkey
 - press the monkey and select "New user script"
